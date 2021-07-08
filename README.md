@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Client Application should be cloned to local. Once after the cloning kindly use npm install to install all the dependency files
 
+Please edit the port in BaseURL property in environment.ts file based on the Web API solution. As of now configured 62677 in the file.
 
 
 Angular UI -> request for Asset List (passing page No, Page Size and sortOrder ) and data will be fetched based on the given input
